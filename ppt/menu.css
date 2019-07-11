@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+a:link { background:none; border:0px;}
+a:visited { background:none; border:0px;}
+a:hover { background:none; border:0px;}
+a:active { background:none; border:0px;}
+
+
+
+
+#menuc  { float:left; width:163px; height:215px; z-index:150; position:relative; margin-top:20px; overflow:hidden; margin-left:-111px;}
+#menuc_left { width:111px; height:215px; background:url(images/menu_left.png) no-repeat; position:absolute;}
+#menuc_left ul { width:111px; height:215px; list-style:none;}
+#menuc_left ul li { position:absolute; width:109px; height:36px;}
+#menuc_right { position:absolute; width:52px; height:102px; margin-top:20px; margin-left:111px; display:none;}
+#menuc_righ { position:absolute; width:52px; height:102px; margin-top:20px; margin-left:111px;}
